@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(디렉토리-구조).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,45 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gatsby-meta-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/__about/resume-en.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="112" selection-start-line="75" selection-start-column="112" selection-end-line="75" selection-end-column="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layout/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,12 +59,72 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(io-redirection).md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(IO-Redirection).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="90">
-                <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+                <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(shell).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="615">
+                <caret line="41" selection-start-line="41" selection-end-line="41" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-강좌(print,-variable).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="55">
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-강좌(자료형-숫자형).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="900">
+                <caret line="60" selection-start-line="60" selection-end-line="60" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(directory,-find).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -161,6 +181,11 @@
         <option value="$PROJECT_DIR$/src/components/social-share/github-icon/index.jsx" />
         <option value="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-2 ).md" />
         <option value="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(io-redirection).md" />
+        <option value="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(shell).md" />
+        <option value="$PROJECT_DIR$/content/blog/python/파이썬-기초-강좌(print,-variable).md" />
+        <option value="$PROJECT_DIR$/content/blog/python/파이썬-기초-강좌(자료형-숫자형).md" />
+        <option value="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md" />
+        <option value="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(directory,-find).md" />
       </list>
     </option>
   </component>
@@ -194,13 +219,6 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
@@ -274,7 +292,7 @@
       <workItem from="1573052084722" duration="42000" />
       <workItem from="1573052160165" duration="4000" />
       <workItem from="1573052185060" duration="1931000" />
-      <workItem from="1573222157971" duration="598000" />
+      <workItem from="1573222157971" duration="3104000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -287,7 +305,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27003000" />
+    <option name="totallyTimeSpent" value="29509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,16 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/cs/프로토콜-버퍼(protocol-buffer).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -544,11 +552,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(io-redirection).md">
+    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(IO-Redirection).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
-            <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(shell).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="615">
+            <caret line="41" selection-start-line="41" selection-end-line="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-강좌(print,-variable).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="55">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-강좌(자료형-숫자형).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="900">
+            <caret line="60" selection-start-line="60" selection-end-line="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(directory,-find).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
