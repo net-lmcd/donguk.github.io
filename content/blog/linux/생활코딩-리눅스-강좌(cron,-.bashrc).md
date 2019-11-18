@@ -47,6 +47,7 @@ $ crontab -e
 $ 0 8 * * * /home/ubuntu/clearTemp.sh 2> error.log # 매일 아침 8시마다 자동으로 비워주기 오류있으면 error.log 에 로깅
 ```
 
+추가적으로 Mac 에서 1분 마다 echo 'crontab test' 명령어를 수행하게 하였는데, 쉘에 바로 나타나지 않고 /var/mail/[사용자] 디렉토리에 로깅 된다는 것을 알았다.
 
 
 <br/>
@@ -62,3 +63,9 @@ $ alias c='clear' # c는 clear 기능을 수행.
 
 - <code>.bashrc</code> : 사용자 루트 디렉토리 경로에 있는  <code>.bashrc</code> 를 수정하면 쉘 ( bash )이 실행 될 때 무언가를 수행하게 할 수 있다.
   - bash shell은 쉘이 실행 될 때 <code>.bashrc</code> 를 실행하기 때문.
+- <code>.bashrc</code> 에 alias 프로그램으로 커맨드를 단축어로 지정해 놓으면 편하다!
+- fish shell 은 조금 다르다.
+```bash
+$ cd ~/.config/fish
+$ vi config.fish # 이곳에 추가 해주면 된다.
+

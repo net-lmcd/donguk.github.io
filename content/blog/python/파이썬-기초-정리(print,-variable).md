@@ -1,5 +1,5 @@
 ---
-title: 파이썬 기초 강좌(print, variable)
+title: 파이썬 기초 정리(print, variable)
 date: 2019-11-09 21:11:77
 category: python
 ---
