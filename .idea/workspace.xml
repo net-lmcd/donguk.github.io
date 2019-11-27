@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(리스트).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(리스트).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(문자열).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(문자열).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/html.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(이터러블,-이터레이터).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="196">
+              <first_editor relative-caret-position="2805">
                 <caret line="187" column="63" selection-start-line="187" selection-start-column="63" selection-end-line="187" selection-end-column="63" />
               </first_editor>
               <second_editor />
@@ -59,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(사용자-정의-이터러블).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-312">
+              <first_editor relative-caret-position="1245">
                 <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
               </first_editor>
               <second_editor />
@@ -67,12 +64,60 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터와-이터레이터).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="284">
-                <caret line="115" column="44" selection-start-line="115" selection-start-column="44" selection-end-line="115" selection-end-column="44" />
+              <first_editor relative-caret-position="1635">
+                <caret line="109" column="34" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터-예제).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2190">
+                <caret line="146" selection-start-line="146" selection-end-line="146" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍-(map함수).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="137">
+                <caret line="154" column="56" selection-start-line="154" selection-start-column="56" selection-end-line="154" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(reduce함수).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(filter함수).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1065">
+                <caret line="71" selection-start-line="71" selection-end-line="71" />
               </first_editor>
               <second_editor />
             </state>
@@ -153,13 +198,17 @@
         <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(이터러블,-이터레이터).md" />
         <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(사용자-정의-이터러블).md" />
         <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터와-이터레이터).md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터-예제).md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍-(map함수).md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(reduce함수).md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(filter함수).md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="180" />
-    <option name="y" value="132" />
-    <option name="width" value="1080" />
+    <option name="x" value="1746" />
+    <option name="y" value="-128" />
+    <option name="width" value="1455" />
     <option name="height" value="659" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -168,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +247,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +314,9 @@
       <workItem from="1574210859351" duration="305000" />
       <workItem from="1574310058601" duration="1767000" />
       <workItem from="1574484976444" duration="1054000" />
-      <workItem from="1574490238023" duration="1521000" />
+      <workItem from="1574490238023" duration="2955000" />
+      <workItem from="1574694435223" duration="1199000" />
+      <workItem from="1574744729563" duration="1460000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -278,7 +329,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47534000" />
+    <option name="totallyTimeSpent" value="51627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,9 +341,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="132" width="1080" height="659" extended-state="0" />
+    <frame x="1746" y="-128" width="1455" height="659" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22568461" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27126917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,34 +371,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="프로필 설정, 그라데이션  수정" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/styles/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/category/item/index.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/category/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -705,7 +729,7 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(이터러블,-이터레이터).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="196">
+          <first_editor relative-caret-position="2805">
             <caret line="187" column="63" selection-start-line="187" selection-start-column="63" selection-end-line="187" selection-end-column="63" />
           </first_editor>
           <second_editor />
@@ -715,7 +739,7 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(사용자-정의-이터러블).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-312">
+          <first_editor relative-caret-position="1245">
             <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
           </first_editor>
           <second_editor />
@@ -725,8 +749,48 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터와-이터레이터).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="284">
-            <caret line="115" column="44" selection-start-line="115" selection-start-column="44" selection-end-line="115" selection-end-column="44" />
+          <first_editor relative-caret-position="1635">
+            <caret line="109" column="34" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터-예제).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2190">
+            <caret line="146" selection-start-line="146" selection-end-line="146" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍-(map함수).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="137">
+            <caret line="154" column="56" selection-start-line="154" selection-start-column="56" selection-end-line="154" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(reduce함수).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(filter함수).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1065">
+            <caret line="71" selection-start-line="71" selection-end-line="71" />
           </first_editor>
           <second_editor />
         </state>
