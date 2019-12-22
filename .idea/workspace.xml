@@ -17,30 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(curry함수).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2040">
-                <caret line="136" column="20" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(자료형-집합).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2175">
-                <caret line="145" column="15" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="15" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(range,-l.range).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -56,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(함수).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
+              <first_editor relative-caret-position="3075">
                 <caret line="205" column="68" selection-start-line="205" selection-start-column="68" selection-end-line="205" selection-end-column="68" />
               </first_editor>
               <second_editor />
@@ -116,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/content/blog/cs/정렬(1).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
+              <first_editor relative-caret-position="1215">
                 <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
               </first_editor>
               <second_editor />
@@ -124,12 +100,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/callback과-promise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="2235">
                 <caret line="149" column="166" selection-start-line="149" selection-start-column="166" selection-end-line="149" selection-end-column="166" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/값으로서의-promise.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1200">
+                <caret line="80" selection-start-line="80" selection-end-line="80" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/모나드와-promise.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,8 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gatsby-meta-config.js" />
-        <option value="$PROJECT_DIR$/content/__about/resume-en.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/content/blog/cs/프로토콜-버퍼(protocol-buffer).md" />
         <option value="$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(디렉토리-구조).md" />
@@ -218,6 +216,8 @@
         <option value="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(l.flatmap).md" />
         <option value="$PROJECT_DIR$/content/blog/cs/정렬(1).md" />
         <option value="$PROJECT_DIR$/content/blog/javascript/callback과-promise.md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/값으로서의-promise.md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/모나드와-promise.md" />
       </list>
     </option>
   </component>
@@ -250,13 +250,6 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
@@ -349,7 +342,9 @@
       <workItem from="1576419877524" duration="511000" />
       <workItem from="1576602318572" duration="325000" />
       <workItem from="1576671365219" duration="22000" />
-      <workItem from="1576671391605" duration="675000" />
+      <workItem from="1576671391605" duration="1485000" />
+      <workItem from="1576908223169" duration="194000" />
+      <workItem from="1576913563053" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -362,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67604000" />
+    <option name="totallyTimeSpent" value="69138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,9 +370,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="180" y="132" width="1080" height="659" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35505193" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49725273" visible="true" weight="0.35505193" />
+      <window_info id="Structure" order="1" sideWeight="0.50274724" side_tool="true" weight="0.35505193" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45679012" />
@@ -388,7 +384,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="7" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3580247" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3580247" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -403,26 +399,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="프로필 설정, 그라데이션  수정" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(IO-Redirection).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌(directory,-find).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/linux/생활코딩-리눅스-강좌( 기초-1 ).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -822,6 +798,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(함수).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3075">
+            <caret line="205" column="68" selection-start-line="205" selection-start-column="68" selection-end-line="205" selection-end-column="68" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(find).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -862,20 +848,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/python/파이썬-기초-정리(함수).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="205" column="68" selection-start-line="205" selection-start-column="68" selection-end-line="205" selection-end-column="68" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/cs/정렬(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
+          <first_editor relative-caret-position="1215">
             <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
           </first_editor>
           <second_editor />
@@ -887,6 +863,26 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2235">
             <caret line="149" column="166" selection-start-line="149" selection-start-column="166" selection-end-line="149" selection-end-column="166" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/javascript/값으로서의-promise.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1200">
+            <caret line="80" selection-start-line="80" selection-end-line="80" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/javascript/모나드와-promise.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
