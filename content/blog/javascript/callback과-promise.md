@@ -148,3 +148,31 @@ let d = b.then(log)
 위와 같이 b 자리에 또 프로미스가 떨어지고 then을 작업을 이어갈 수 있다. 
 
 결론지으면 **프로미스는 비동기 상황을 값으로 다룰 수 있고, 값으로 다룰 수 있다는 것( 코드로 다뤄지는게 아닌 )은 일급이라는 것이다.** 일급이라는 이야기는 어떤 변수에 전달될 수 있고, 함수에 인자로 전달될 수 있고 전달 될 수 있다는 것은 어떤 작업을 계속해서 이어나갈 수 있다는 말이다.
+
+### (중요) Promise.then의 중요한 규칙
+
+
+
+- then 메소드를 통해 꺼낸 값은 반드시 Promise가 아니다.
+
+```javascript
+Promise.resolve(Promise.rosolve(Promise.resolve(1))).then(log)
+```
+
+위와 같이 프로미스가 중첩되어 선언해 있다 하더라도 단 **한번의 then** 으로 안에 있는 결과를 꺼내서 볼 수 있다는 점이다.
+
+```javascript
+Promise.resolve(Promise.resolve(1)).then(function(a){
+  log(a)
+})
+```
+
+일반적으로 생각 해보면, then 함수 내부 function에는 <code>Promise.resolve(1)</code> 이라는 프로미스가 떨어질 것 같은데 그렇지 않고 프로미스가 아무리 깊게 있더라도 그 안쪽에 있는 **값**이 함수 내부에 떨어진다.
+
+이말은 **프로미스 체인이 연속으로 걸려 있어도 내가 원하는 곳에서 한번의 then으로 결과를 꺼내 볼 수 있다는 것이다.**  마찬가지로
+
+```javascript
+new Promise(resolve => resolve(new Promise( resolve1 => resolve1(1)))).then(log)
+```
+
+연속적으로 resolve를 하더라도 해당하는 결과는 한번의 then으로 꺼내 볼 수 있다.
