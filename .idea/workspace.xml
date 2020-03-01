@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/blog/algorithm/20200127---탑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/algorithm/20200225-알고리즘.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/algorithm/20200226-알고리즘.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/algorithm/20200227-알고리즘.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/playground/2020-02-24.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +135,10 @@
       <workItem from="1578490949242" duration="437000" />
       <workItem from="1579084460453" duration="1100000" />
       <workItem from="1579855176965" duration="1479000" />
-      <workItem from="1580012634482" duration="1350000" />
+      <workItem from="1580012634482" duration="2263000" />
+      <workItem from="1582555651398" duration="3977000" />
+      <workItem from="1582725423014" duration="678000" />
+      <workItem from="1583064875006" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
