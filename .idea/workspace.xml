@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/cs/이진-탐색.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/cs/이진-탐색.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +137,7 @@
       <workItem from="1583064875006" duration="1431000" />
       <workItem from="1583245231706" duration="124000" />
       <workItem from="1583245523854" duration="2354000" />
+      <workItem from="1583414305773" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
