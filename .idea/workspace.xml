@@ -46,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.2" />
@@ -134,6 +135,8 @@
       <workItem from="1582555651398" duration="3977000" />
       <workItem from="1582725423014" duration="678000" />
       <workItem from="1583064875006" duration="1431000" />
+      <workItem from="1583245231706" duration="124000" />
+      <workItem from="1583245523854" duration="2354000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
