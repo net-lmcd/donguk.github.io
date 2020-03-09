@@ -46,11 +46,9 @@ category: cs
 ### 힙의 종류
 
 1. 최대 힙(max heap)
-   - 부모 노드의 키 값이 자식 노드의 키 값보다 크거나 같은 완전 이진 트리
+   - 부모 노드의 키 값이 자식 노드의 키 값보다 크다
 2. 최소 힙(min heap)
-   - 부모 노드의 키값이 자식 노드의 키 값보다 작거나 같은 완전 이진 트리
-
-
+   - 부모 노드의 키 값이 자식 노드의 키 값보다 작다.
 
 ### 힙의 구현
 
@@ -64,7 +62,7 @@ category: cs
 부모의 인덱스 = 자식의 인덱스 / 2
 ```
 
-- 최대 힙
+####1. 최대 힙
 
 다음 세 가지 규칙을 이용해서 구현
 
@@ -99,14 +97,14 @@ class MaxHeap:
     def maxHeapify(self, i):
         left = 2*i
         right = 2*i+1
-        smallest = i
+        largest = i
         if left < len(self.data) and self.data[i] < self.data[left]:
-            smallest = left
-        if right < len(self.data) and self.data[i] < self.data[right]:
-            smallest = right
-        if smallest != i:
-            self.data[i], self.data[smallest] = self.data[smallest], self.data[i]
-            self.maxHeapify(smallest)
+            largest = left
+        if right < len(self.data) and self.data[largest] > self.data[right]:
+            largest = right
+        if largest != i:
+            self.data[i], self.data[largest] = self.data[largest], self.data[i]
+            self.maxHeapify(largest)
 
 
 ```
@@ -114,4 +112,44 @@ class MaxHeap:
 - Insert : 리스트의 끝에 원소를 넣고 리스트의 길이가 2이상이면 부모 노드와의 크기를 비교하면서 적절한 위치로 이동시킨다.
 - remove: 리스트의 루트노드 ( Max 값 노드 ) 와 마지막 노드의 위치를 변경 시키고 pop을 하여 최대값을 리턴한다. 루트 노드와 변경된 노드가 적절한 위치로 이동하기 위해 maxHeapify 메소드를 이용한다.
 - maxHeapify: 파라미터로 받은 노드를 적절한 위치로 이동시키는 역할을 한다.
+
+#### 2. 최소힙
+
+```python
+class Heap:
+    def __init__(self):
+        self.data = [None]
+
+    def insert(self, item):
+        self.data.append(item)
+        i = len(self.data) - 1
+        while i > 1:
+            if self.data[i] < self.data[(i // 2)]:
+                self.data[i], self.data[(i // 2)] = self.data[(i // 2)], self.data[i]
+            else:
+                break
+
+    def remove(self):
+        if len(self.data) > 1:
+            self.data[-1], self.data[1] = self.data[1], self.data[-1]
+            data = self.data.pop()
+            self.min_heapify(1)
+        else:
+            data = None
+        return data
+
+    def min_heapify(self, i):
+        left = 2 * i
+        right = 2 * i + 1
+        smallest = i
+        if left < len(self.data) and self.data[i] > self.data[left]:
+            smallest = i
+        if right < len(self.data) and self.data[left] > self.data[right]:
+            smallest = i
+        if smallest != i:
+            self.data[i], self.data[smallest] = self.data[smallest], self.data[i]
+            self.min_heapify(smallest)
+```
+
+
 
