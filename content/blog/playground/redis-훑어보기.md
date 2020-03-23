@@ -1,5 +1,5 @@
 ---
-title: Redis 훑어보기
+title: 레디스(Redis) 훑어보기
 date: 2020-03-16 14:03:66
 category: playground
 ---
