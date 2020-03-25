@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/blog/algorithm/20200323-알고리즘.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/cs/nat-기초.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +142,7 @@
       <workItem from="1583918889119" duration="870000" />
       <workItem from="1583989588851" duration="6365000" />
       <workItem from="1584676794031" duration="1579000" />
-      <workItem from="1584704651387" duration="5026000" />
+      <workItem from="1584704651387" duration="7337000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
