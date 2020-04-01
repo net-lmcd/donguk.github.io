@@ -67,7 +67,7 @@ category: cs
 다음 세 가지 규칙을 이용해서 구현
 
 1. 루트 노드가 항상 최댓값을 가진다.
-2. 반드시 완전 이진 트리이어야 한다.
+2. 반드시 완전 이진 트리이어야 한다. ( 포화 이진 트리에서 오른쪽 leaf 부터 제거 )
 3. 최대 힙 내의 임의의 노드를 루트로 하는 서브트리 또한 최대 힙이다.
 
 ```python
@@ -100,7 +100,7 @@ class MaxHeap:
         largest = i
         if left < len(self.data) and self.data[i] < self.data[left]:
             largest = left
-        if right < len(self.data) and self.data[largest] > self.data[right]:
+        if right < len(self.data) and self.data[largest] < self.data[right]:
             largest = right
         if largest != i:
             self.data[i], self.data[largest] = self.data[largest], self.data[i]
