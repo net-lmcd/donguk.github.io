@@ -12,29 +12,6 @@
   <component name="FavoritesManager">
     <favorites_list name="blog" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>StoreStateProvi</find>
-      <find>&lt;App</find>
-      <find>&lt;Store</find>
-      <find>getDerivedStateFromError</find>
-      <find>uv_</find>
-      <find>gatsby</find>
-      <find>profile</find>
-      <find>felog</find>
-      <find>development</find>
-      <find>All</find>
-      <find>frontmatter</find>
-      <find>categories</find>
-      <find>posts</find>
-      <find>data</find>
-      <find>theme-gr</find>
-      <find>프로토콜-버퍼</find>
-      <find>```react</find>
-      <find>render</find>
-      <find>index.html</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -144,7 +121,7 @@
       <workItem from="1584676794031" duration="1579000" />
       <workItem from="1584704651387" duration="9113000" />
       <workItem from="1585274585799" duration="5913000" />
-      <workItem from="1585807586052" duration="2290000" />
+      <workItem from="1585807586052" duration="7260000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
