@@ -123,7 +123,7 @@
       <workItem from="1585274585799" duration="5913000" />
       <workItem from="1585807586052" duration="10878000" />
       <workItem from="1586315296527" duration="7329000" />
-      <workItem from="1586861034368" duration="5221000" />
+      <workItem from="1586861034368" duration="5775000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -152,11 +152,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="프로필 설정, 그라데이션  수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="250" key="Vcs.Push.Dialog.v2" timestamp="1586961088913">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2" timestamp="1587470505626">
+      <screen x="1440" y="-469" width="2560" height="1417" />
     </state>
     <state x="430" y="233" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586694288422" />
-    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1585238922430" />
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1587470505626" />
     <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586961088913" />
   </component>
 </project>
