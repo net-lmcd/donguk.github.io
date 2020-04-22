@@ -62,22 +62,6 @@ console.log(nums)
 // (5) [10, 9, 8, 3, 1]
 ```
 
-#### 알파벳순 정렬
-
-```javascript
-const sortFunction = (a, b) => {
-  a = a.toString().toLowerCase()
-  b = b.toString().toLowerCase()
-  if (a > b) return b - a
-  else if (a < b) return a - b
-  else return 0
-}
-const alpha = ['A', 'a', 'Z', 'z', 'J', 'j', 'D', 'd' ]
-alpha.sort(sortFunction)
-console.log(alpha)
-// (8) ["A", "a", "Z", "z", "J", "j", "D", "d"]
-```
-
 #### Object Array 정렬
 
 key A를 오름차순으로 정렬 하는데 만약 같다면 key B를 기준으로 내림차순으로 정렬 해보자.
