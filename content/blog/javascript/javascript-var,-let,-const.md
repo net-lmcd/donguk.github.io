@@ -1,5 +1,5 @@
 ---
-title: javascript var, let, const
+title: Javascript var, let, const
 date: 2020-04-30 20:04:36
 category: javascript
 ---

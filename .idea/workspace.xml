@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/javascript-var,-let,-const.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/javascript-var,-let,-const.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +129,7 @@
       <workItem from="1587660611156" duration="2166000" />
       <workItem from="1588232601313" duration="311000" />
       <workItem from="1588235282611" duration="620000" />
+      <workItem from="1588245514131" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
