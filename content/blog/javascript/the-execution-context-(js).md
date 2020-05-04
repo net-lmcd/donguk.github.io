@@ -1,8 +1,9 @@
 ---
-title: [중요]Javascript 실행 컨텍스트
-date: 2020-05-04 16:05:61
+title: The Execution Context (JS)
+date: 2020-05-04 17:05:01
 category: javascript
 ---
+
 > https://poiemaweb.com/js-execution-context 를 공부하고 정리한 글
 
 <br/>
