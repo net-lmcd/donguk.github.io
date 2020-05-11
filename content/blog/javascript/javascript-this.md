@@ -244,7 +244,7 @@ Person.prototype.doSomething = function(callback){
     callback()
   }
 }
-function foo() {console.og(this.name)} // this -> window / undefined
+function foo() {console.log(this.name)} // this -> window / undefined
 const p = new Person('donguk')
 p.doSomething(foo)// undefined
 ```
@@ -260,7 +260,7 @@ Person.prototype.doSomething = function(callback){
     callback.call(this) // callback 함수의 this를 Person 객체로 바인딩
   }
 }
-function foo() {console.og(this.name)} // this -> Person
+function foo() {console.log(this.name)} // this -> Person
 const p = new Person('donguk')
 p.doSomething(foo)//  donguk
 ```
@@ -278,7 +278,7 @@ Person.prototype.doSomething = function(callback){
 		callback.bind(this)() // 바인딩된 함수를 실행
   }
 }
-function foo() {console.og(this.name)} // this -> Person
+function foo() {console.log(this.name)} // this -> Person
 const p = new Person('donguk')
 p.doSomething(foo)//  donguk
 ```
