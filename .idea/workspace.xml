@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/javascript-this.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/javascript-this.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +135,9 @@
       <workItem from="1588912826678" duration="407000" />
       <workItem from="1588920496144" duration="8000" />
       <workItem from="1588920512367" duration="32000" />
-      <workItem from="1589177209379" duration="1354000" />
+      <workItem from="1589177209379" duration="1506000" />
+      <workItem from="1589734487584" duration="635000" />
+      <workItem from="1589770641461" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -163,12 +166,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="프로필 설정, 그라데이션  수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="250" key="Vcs.Push.Dialog.v2" timestamp="1588578928705">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2" timestamp="1589280834983">
+      <screen x="1440" y="-469" width="2560" height="1417" />
     </state>
     <state x="430" y="233" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586694288422" />
     <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@0.23.1440.877" timestamp="1588578928705" />
-    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1588076145996" />
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1589280834983" />
     <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586961088913" />
   </component>
 </project>

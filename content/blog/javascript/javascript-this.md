@@ -282,4 +282,31 @@ function foo() {console.log(this.name)} // this -> Person
 const p = new Person('donguk')
 p.doSomething(foo)//  donguk
 ```
+<br/>
+
+### 5. 화살표 함수에서의 this
+추가적으로, 화살표 함수에서 `this` 는 **항상 현재 스코프의 상위 컨텍스트를 가리킨다.**
+
+```javascript
+var obj = {
+  namme: 'donguk'
+  foo: () => console.log(this.name)
+}
+
+obj.foo() // undefined
+```
+
+메소드로 정의한 화살표 함수 내부의 `this` 는 `obj` 을 가리키지 않고 상위 컨텍스트인 `window` 를 가리키기 때문에 `undefined`다. 
+
+```javascript
+var obj = {
+  name: 'donguk',
+  foo() {
+    console.log(this.name) 
+  }
+}
+obj.foo() // donguk
+```
+
+
 
