@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(queryStr, join)
 date: 2019-12-09 22:12:01
-category: javascript
+category: FP
 ---
 
 

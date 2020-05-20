@@ -6,7 +6,7 @@ category: javascript
 
 ### 1. 이벤트 핸들러를 등록하는 방법
 
-1. 인라인 이벤트 핸들러 방식
+#### 인라인 이벤트 핸들러 방식
 
 ```html
 <button onclick="handler()">click</button>
@@ -29,7 +29,7 @@ category: javascript
 </script>
 ```
 
-2. 이벤트 핸들러 프로퍼티 방식
+#### 이벤트 핸들러 프로퍼티 방식
 
 이 방식은 하나의 요소에 **하나의 이벤트 핸들러** 만 등록 가능하다.
 
@@ -46,7 +46,7 @@ category: javascript
 
 여기서 이벤트 핸들러는 메소드이므로 이벤트 핸들러 내부의 `this` 는 이벤트 핸들러가 바인딩된 요소를 가리킨다. ( 이벤트 객체의 `currentTarget` 프로퍼티와 같음 )
 
-3. **addEventListener** 메소드 방식
+#### addEventListener 메소드 방식
 
 `addEventListener` 메소드를 이용하여 DOM 요소에 이벤트를 바인딩하고, 해당 이벤트가 발생했을 때 실행될 콜백 함수를 지정한다.
 
@@ -140,7 +140,7 @@ body
 ...
 <script>
   function handler(e) {
-    console.log(e.currentTarget === this) // btn-class
+    console.log(e.currentTarget === this) // true
   }
 	document.querySelector('button').addEventListener('clcick', handler)
 </script>

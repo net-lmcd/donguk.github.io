@@ -1,7 +1,7 @@
 ---
 title: go,pipe,reduce 비동기제어
 date: 2019-12-24 16:12:67
-category: javascript
+category: FP
 ---
 
 > # go, pipe, reduce 에서 비동기 제어

@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(filter)
 date: 2019-11-27 02:11:92
-category: javascript
+category: FP
 ---
 
 > Filter 함수는 이러터블의 원소들에서 특정한 원소들만 걸러내고 싶을 때 사용한다.

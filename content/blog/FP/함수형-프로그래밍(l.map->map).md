@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(L.map->map)
 date: 2019-12-10 22:12:11
-category: javascript
+category: FP
 ---
 
 > # L.map 으로 map 만들기

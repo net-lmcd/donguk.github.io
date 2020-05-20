@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(L.flatMap)
 date: 2019-12-16 02:12:37
-category: javascript
+category: FP
 ---
 
 ># L.flatMap

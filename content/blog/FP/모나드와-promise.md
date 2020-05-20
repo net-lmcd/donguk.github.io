@@ -1,7 +1,7 @@
 ---
 title: 모나드와 Promise
 date: 2019-12-21 16:12:91
-category: javascript
+category: FP
 ---
 
 

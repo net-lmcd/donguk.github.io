@@ -1,7 +1,7 @@
 ---
 title: Callback과 Promise
 date: 2019-12-19 02:12:23
-category: javascript
+category: FP
 ---
 
 ># Callback 과 Promise

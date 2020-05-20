@@ -1,7 +1,7 @@
 ---
 title: (중요) 함수형 프로그래밍(연속된 제너레이터)
 date: 2019-12-07 23:12:01
-category: javascript
+category: FP
 ---
 
 

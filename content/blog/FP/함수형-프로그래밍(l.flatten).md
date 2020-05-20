@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(L.flatten)
 date: 2019-12-15 23:12:71
-category: javascript
+category: FP
 ---
 
 > # L.flatten

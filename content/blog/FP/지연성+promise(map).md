@@ -1,7 +1,7 @@
 ---
 title: 지연성+Promise(map)
 date: 2019-12-26 09:12:04
-category: javascript
+category: FP
 ---
 
 > # 지연평가 + Promise

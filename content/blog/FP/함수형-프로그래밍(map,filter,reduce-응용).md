@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(map,filter,reduce 응용)
 date: 2019-11-27 13:11:95
-category: javascript
+category: FP
 ---
 
 > ### map, filter, reduce 응용

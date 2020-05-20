@@ -3,7 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/javascript/vanilajs-스터디-2주차-피드백.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/vanilajs-스터디-2주차-피드백.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/callback과-promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/callback과-promise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/go,pipe,reduce-비동기제어.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/go,pipe,reduce-비동기제어.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/javascript-event.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/javascript-event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/값으로서의-promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/값으로서의-promise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/모나드와-promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/모나드와-promise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/지연성+promise(map).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/지연성+promise(map).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(curry함수).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(curry함수).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(filter함수).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(filter함수).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(find).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(find).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(go함수).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(go함수).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(l.flatmap).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(l.flatmap).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(l.flatten).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(l.flatten).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(l.map-&gt;map).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(l.map-&gt;map).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(map,filter,reduce-응용).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(map,filter,reduce-응용).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(querystr,-join).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(querystr,-join).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(range,-l.range).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(range,-l.range).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(reduce함수).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(reduce함수).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(take,-지연성-평가).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(take,-지연성-평가).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(사용자-정의-이터러블).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(사용자-정의-이터러블).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(엄격vs느긋)-(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(엄격vs느긋)-(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(이터러블,-이터레이터).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(이터러블,-이터레이터).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터-예제).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(제너레이터-예제).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(제너레이터와-이터레이터).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(제너레이터와-이터레이터).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍(평가,일급,고차함수).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍(평가,일급,고차함수).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/함수형-프로그래밍-(map함수).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/FP/함수형-프로그래밍-(map함수).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/react/react-apollo-with-graphql-tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/react/typescript---react-component.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/react/typescript---기초.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +70,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/blog/FP" />
       <recent name="$PROJECT_DIR$/content/assets" />
       <recent name="$PROJECT_DIR$/content/blog/HTML" />
       <recent name="$PROJECT_DIR$/content/blog/CS" />
@@ -137,7 +165,8 @@
       <workItem from="1588920512367" duration="32000" />
       <workItem from="1589177209379" duration="1506000" />
       <workItem from="1589734487584" duration="635000" />
-      <workItem from="1589770641461" duration="2741000" />
+      <workItem from="1589770641461" duration="4266000" />
+      <workItem from="1589949214392" duration="429000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -166,12 +195,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="프로필 설정, 그라데이션  수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2" timestamp="1589280834983">
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2" timestamp="1589935360456">
       <screen x="1440" y="-469" width="2560" height="1417" />
     </state>
     <state x="430" y="233" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586694288422" />
     <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@0.23.1440.877" timestamp="1588578928705" />
-    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1589280834983" />
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1589935360456" />
     <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586961088913" />
   </component>
 </project>

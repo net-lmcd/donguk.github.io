@@ -1,7 +1,7 @@
 ---
 title: 값으로서의 Promise
 date: 2019-12-21 15:12:43
-category: javascript
+category: FP
 ---
 
 ># 값으로서의 Promise

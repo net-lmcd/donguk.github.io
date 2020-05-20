@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(curry)
 date: 2019-12-03 01:12:07
-category: javascript
+category: FP
 ---
 
 > ## Curry

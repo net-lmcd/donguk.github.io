@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(reduce)
 date: 2019-11-27 02:11:52
-category: javascript
+category: FP
 ---
 
 > reduce 함수는 이러터블의 원소들을 다 더해서 하나의 값으로 만들고 싶을 때 사용한다.

@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(take, 지연성 평가)
 date: 2019-12-06 13:12:02
-category: javascript
+category: FP
 ---
 
 > # take 함수와 지연평가

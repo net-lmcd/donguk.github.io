@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(range, L.range)
 date: 2019-12-05 00:12:47
-category: javascript
+category: FP
 ---
 
 ### 인자로 받은 값 만큼 길이를 가지는 range 함수와 L.range 함수(느긋한 range) 구현

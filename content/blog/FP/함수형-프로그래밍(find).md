@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(find)
 date: 2019-12-10 22:12:80
-category: javascript
+category: FP
 ---
 
 > # find 함수

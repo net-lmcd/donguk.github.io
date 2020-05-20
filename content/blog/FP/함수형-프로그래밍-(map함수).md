@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍 (map)
 date: 2019-11-26 02:11:97
-category: javascript
+category: FP
 ---
 > ## Map 함수
 

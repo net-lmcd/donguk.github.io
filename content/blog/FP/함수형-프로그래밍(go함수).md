@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍(go, pipe)
 date: 2019-12-02 22:12:64
-category: javascript
+category: FP
 ---
 
 > ## go, pipe
