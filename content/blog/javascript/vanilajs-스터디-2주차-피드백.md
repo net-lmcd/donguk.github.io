@@ -106,4 +106,4 @@ function TodoList() {
 
 현재 스코프의 상위 컨텍스트를 가리킨다, 즉 `TodoList` 
 
-생각난 김에 `this` 다시 복습헤야겠다. [링크](
+생각난 김에 `this` 다시 복습헤야겠다. [링크](https://doonguk.github.io/javascript/javascript-this/)
