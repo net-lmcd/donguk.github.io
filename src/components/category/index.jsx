@@ -12,6 +12,7 @@ export const Category = ({ categories, category, selectCategory }) => {
       role="tablist"
       id="category"
       style={{
+        whiteSpace: 'unset',
         margin: `0 -${rhythm(3 / 4)}`,
       }}
     >

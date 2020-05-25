@@ -3,10 +3,12 @@ title: Map - Javascript
 date: 2020-04-21 21:04:38
 category: javascript
 ---
+`Map` 객체는 Key - Value Collection 이며, 삽입 순서도 기억한다. 어떠한 자료형(객체, 원시값)도 Key나 Value로 올 수 있다.
+
+### 개발하다 알게된 것
+- Typescript 에서 Map 자료구조의 타입은 `Map<K,V>`로 표현 가능하다.
 
 <br/>
-
-`Map` 객체는 Key - Value Collection 이며, 삽입 순서도 기억한다. 어떠한 자료형(객체, 원시값)도 Key나 Value로 올 수 있다.
 
 ### 선언
 
