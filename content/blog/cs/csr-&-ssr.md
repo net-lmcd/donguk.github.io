@@ -21,7 +21,7 @@ category: cs
 
 그래서 SPA를 CSR(Client Side Rendering) 방식으로, MPA을 SSR(Server Side Rendering) 방식으로 렌더링한다고 말한다.
 
-## CSR ( Client Side Rendering )
+## CSR (Client Side Rendering)
 
 CSR에서는 브라우저가 서버에 정적 컨텐츠를 최초에 한번 요청한 후 로드되면 사용자의 상호작용에 따라 JS를 이용해서 동적으로 렌더링을 시킨다.
 
@@ -37,7 +37,7 @@ CSR에서는 브라우저가 서버에 정적 컨텐츠를 최초에 한번 요�
 
 - 검색엔진의 검색 봇이 크롤링을 하는데 어렴울 겪는다..( SEO가 좋지 않다.)
 
-## SSR
+## SSR(Server Side Rendering)
 
 SSR에서는 브라우저가 페이지를 요청하면 서버는 페이지에 맞는 정적 컨텐츠를 응답해주는 방식으로 렌더링을 시킨다.
 
@@ -56,7 +56,7 @@ SSR에서는 브라우저가 페이지를 요청하면 서버는 페이지에 �
 
 ## 결론
 
-SPA, MPA를 상화에 맞게 사용하면 된다..ㅎㅎ
+SPA, MPA를 상에 맞게 사용하면 된다..ㅎㅎ
 
 
 
