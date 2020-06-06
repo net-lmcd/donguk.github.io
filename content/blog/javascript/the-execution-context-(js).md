@@ -1,5 +1,5 @@
 ---
-title: The Execution Context (JS)
+title: 실행 컨텍스트
 date: 2020-05-04 17:05:01
 category: javascript
 ---
