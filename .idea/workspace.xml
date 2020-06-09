@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/javascript/메모리-힙-&amp;-콜-스택.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/메모리-힙-&amp;-콜-스택.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/the-execution-context-(js).md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/the-execution-context-(js).md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,7 @@
       <workItem from="1590644947253" duration="57000" />
       <workItem from="1590722163920" duration="148000" />
       <workItem from="1591149243590" duration="1382000" />
-      <workItem from="1591190918090" duration="8489000" />
+      <workItem from="1591190918090" duration="10184000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
