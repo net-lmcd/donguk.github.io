@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/cs/xss-&amp;-csrf.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/cs/xss-&amp;-csrf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/cs/쿠키&amp;세션&amp;스토리지.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/cs/쿠키&amp;세션&amp;스토리지.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/javascript/scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/scope.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +146,7 @@
       <workItem from="1590644947253" duration="57000" />
       <workItem from="1590722163920" duration="148000" />
       <workItem from="1591149243590" duration="1382000" />
-      <workItem from="1591190918090" duration="22359000" />
+      <workItem from="1591190918090" duration="23719000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -172,6 +169,13 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$USER_HOME$/Documents/GitHub/vshop_admin/node_modules/wait-for-expect/lib/index.d.js" />
+        <option value="$USER_HOME$/Documents/GitHub/vshop_admin/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$USER_HOME$/Documents/GitHub/vshop_admin/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="프로필 설정, 그라데이션  수정" />
