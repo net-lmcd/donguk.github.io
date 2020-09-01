@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="783f392d-a8f1-4ae6-a4f3-a890a07d342a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/cs/웹-서버-&amp;-was.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/cs/웹-서버-&amp;-was.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/scope.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +148,11 @@
       <workItem from="1590644947253" duration="57000" />
       <workItem from="1590722163920" duration="148000" />
       <workItem from="1591149243590" duration="1382000" />
-      <workItem from="1591190918090" duration="23719000" />
+      <workItem from="1591190918090" duration="25576000" />
+      <workItem from="1592274328734" duration="7000" />
+      <workItem from="1592274974392" duration="2050000" />
+      <workItem from="1592599157593" duration="6367000" />
+      <workItem from="1593338209942" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="프로필 설정, 그라데이션  수정">
       <created>1572079045996</created>
@@ -174,6 +180,9 @@
         <option value="$USER_HOME$/Documents/GitHub/vshop_admin/node_modules/wait-for-expect/lib/index.d.js" />
         <option value="$USER_HOME$/Documents/GitHub/vshop_admin/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
         <option value="$USER_HOME$/Documents/GitHub/vshop_admin/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$USER_HOME$/Documents/GitHub/fieldshare-jeipark/node_modules/wait-for-expect/lib/index.d.js" />
+        <option value="$USER_HOME$/Documents/GitHub/fieldshare-jeipark/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$USER_HOME$/Documents/GitHub/fieldshare-jeipark/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
       </list>
     </option>
   </component>
@@ -182,13 +191,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="프로필 설정, 그라데이션  수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2" timestamp="1591768378230">
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2" timestamp="1592986445622">
       <screen x="1440" y="-469" width="2560" height="1417" />
     </state>
     <state x="430" y="233" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586694288422" />
     <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@0.23.1440.877" timestamp="1588578928705" />
-    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1591768378230" />
-    <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1590419618575" />
+    <state x="2205" y="-103" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-469.2560.1417@1440.-469.2560.1417" timestamp="1592986445622" />
+    <state x="430" y="250" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1592035085796" />
     <state x="2704" y="183" width="703" height="518" key="find.popup" timestamp="1590139524811">
       <screen x="1440" y="-469" width="2560" height="1417" />
     </state>

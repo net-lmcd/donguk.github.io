@@ -3,7 +3,6 @@ title: Scope
 date: 2020-06-07 18:06:45
 category: javascript
 ---
-
 ## 전역변수 & 지역변수
 
 ```javascript
@@ -17,6 +16,36 @@ console.log(x) // global
 ```
 
 ex 함수 바깥의 x는 **전역변수** , ex 함수의 안의 x는 **지역변수**. 위의 상황에서 지역변수는 아무리 해도 전역변수에 영향을 끼칠 수 없다. 바로 **스코프** 때문이다. 
+
+## 전역객체와 let
+
+**let 키워드로 선언된 변수를 전역 변수로 사용하는 경우, let 전역 변수는 전역객체의 프로퍼티가 아니다.**
+
+```javascript
+let foo = 123;
+console.log(window.foo) // undefined
+var bar = 345;
+console.log(window.bar) // 345
+```
+
+전역코드에서 `let`은 보이지 않는 개념인 **블록 레벨에 저장된다.**
+
+```javascript
+{
+  let a = 1
+  console.log(a) // 1
+}
+```
+
+또 블록 단위에서도 호이스팅이 일어나기 때문에 아래와 같은 예시에서 참조에러가 발생한다.
+
+```javascript
+let foo = 1; // 전역 변수
+{
+  console.log(foo); // ReferenceError: foo is not defined
+  let foo = 2; // 지역 변수
+}
+```
 
 ## 스코프 (Scope)
 
@@ -107,7 +136,7 @@ var newScope = (function(){
 >
 > ```javascript
 > for (var i=0; i<5; i++) {
->   setTimeout(()=> console.log(i), 1000)
+> setTimeout(()=> console.log(i), 1000)
 > }
 > ```
 >
@@ -117,9 +146,9 @@ var newScope = (function(){
 >
 > ```javascript
 > for (var i=0; i<5; i++) {
->   (function (j){
->     setTimeout(() => console.log(j), 1000)
->   })(i)
+> (function (j){
+>  setTimeout(() => console.log(j), 1000)
+> })(i)
 > }
 > ```
 >
@@ -129,13 +158,11 @@ var newScope = (function(){
 >
 > ```javascript
 > for (let i=0; i<5; i++) {
->   setTimeout(()=> console.log(i), 1000)
+> setTimeout(()=> console.log(i), 1000)
 > }
 > ```
 >
-> 변수를 `let`으로 선언하게 되면 반복문의 매 반복마다 새로운 i가 생성되고 초기화된다. 클로저인 콜백함수가 실행되는 시점에 `i`는 스코프 체인을 따라서 상위 컨텍스트를 검색하고 이때 블록스코프에서 매 반복마다 선언과 초기화된 `i`를 참조하는 것이다. 
-
-
+> **for 루프의 `let` i 는 for loop에서만 유효한 지역변수이다** . 또한 `i`는 **for 루프가 종료되더라도 변수 i를 참조하고 있는 함수가 존재하는 한 계속 유지된다.** (블록단위로 지역변수 `i`가 5개 생성되겠꾼 ㅎㅎㅎㅎ)
 
 ## Reference
 
