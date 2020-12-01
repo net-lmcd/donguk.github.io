@@ -10,7 +10,7 @@ module.exports = {
     medium: ``, // Your Medium account
     facebook: `profile.php?id=100003363456364`, // Your Facebook account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/profile.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
