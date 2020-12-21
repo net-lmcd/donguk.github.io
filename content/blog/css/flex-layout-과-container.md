@@ -94,7 +94,7 @@ C D
 A B
 ```
 
-**5. Flex-flow**
+**5. flex-flow**
 
 - `flex-direction` 과 `flex-wrap` 을 한꺼번에 지정할 수 있다.
 - `flex-direction` , `flex-wrap` 순서대로 써주면 된다.
